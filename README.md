@@ -30,8 +30,8 @@ The Ethereum Deposit Tracker is an application designed to monitor and record ET
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/ethereum-deposit-tracker.git
-    cd ethereum-deposit-tracker
+    git clone https://github.com/your-username/eth-deposit-tracker.git
+    cd eth-deposit-tracker
     ```
 
 2. **Install Dependencies:**
